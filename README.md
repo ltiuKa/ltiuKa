@@ -14,7 +14,9 @@
 <!-- Số lượng follow github [![GitHub followers](https://img.shields.io/github/followers/ltiuKa.svg?style=social&label=Followers)](https://github.com/ltiuKa?tab=followers) -->
 
 <!-- Slogan -->
-
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hi+I'm+Ka+(Nguyễn+Minh+Thắng)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend" 
+    alt="Typing SVG" />
     [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Ka;I'm+a+Web+Developer...;And+I'm+also+Software+Engineer)](https://git.io/typing-svg)
 
 
@@ -65,13 +67,6 @@
     <!-- ![](https://github-readme-stats.vercel.app/api?username=ltiuKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
     ![](https://github-readme-streak-stats.herokuapp.com/?user=ltiuKa&theme=blue-green&hide_border=false)
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltiuKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</p>
-
-
-### 🖋 Typing animation intro
-
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hi+I'm+Lý+Tiểu+Ka+(Nguyễn+Minh+Thắng)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend" alt="Typing SVG" />
 </p>
 
 ---

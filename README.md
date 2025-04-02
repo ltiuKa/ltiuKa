@@ -15,9 +15,9 @@
 
 <!-- Slogan -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi+I'm+Ka+(Nguyễn+Minh+Thắng)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend" 
-    alt="Typing SVG" />
-    <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=I'm+Ka;I'm+a+Web+Developer...;And+I'm+also+Software+Engineer)](https://git.io/typing-svg) -->
+    <!-- <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi+I'm+Ka+(Nguyễn+Minh+Thắng)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend" 
+    alt="Typing SVG" /> -->
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=50&lines&center=true&vCenter=true&multiline=true&width=600&height=200&lines=Hi+I'm+Ka+(Nguyễn+Minh+Thắng)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend)](https://git.io/typing-svg)
 
 
 <p align="center">

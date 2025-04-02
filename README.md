@@ -9,7 +9,12 @@
      I'm Ka (aka Nguyễn Minh Thắng)
 </h1>
 
-<img src="https://profile-counter.glitch.me/ltiuKa/count.svg"><img src="https://komarev.com/ghpvc/?username=ltiuKa&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<!-- đếm lượt xem -->
+<p align="center">
+    <img src="https://profile-counter.glitch.me/ltiuKa/count.svg">
+    <img src="https://komarev.com/ghpvc/?username=ltiuKa&label=Views&color=brightgreen&style=flat-square" 
+    alt="views on github" />
+</p>
 
 <!-- ✍️ Typing Animation -->
 <p align="center">

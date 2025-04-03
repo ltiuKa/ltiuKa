@@ -6,27 +6,8 @@
 
 <h1 align="center">
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-      I'm <strong>
-    <span style="
-      background: linear-gradient(270deg, #00ffff, #00e5ff, #00ccff, #00b2ff, #0099ff, #00b2ff, #00ccff, #00e5ff, #00ffff);
-      background-size: 1800% 1800%;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      animation: gradientShift 5s ease infinite;
-      display: inline-block;
-    ">
-      Ka
-    </span>
-  </strong> (aka Nguyễn Minh Thắng)
+     I'm Ka (aka Nguyễn Minh Thắng) <img alt="Hola" height="40px" width="40px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 </h1>
-
-<style>
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
 
 <!-- đếm lượt xem -->
 <p align="center">
@@ -43,8 +24,6 @@
   </a>
 </p>
 
-
-
 <p align="center">
   <em>A passionate IT student majoring in <strong>Software Engineering</strong> 💻</em><br/>
   <em>From Việt Nam 🇻🇳 – Dreaming in code, building with heart.</em>
@@ -54,7 +33,11 @@
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- Giới thiệu tóm tắt -->
-## 👨‍💻 About Me
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px> About Me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br>
 
 - 🌱 I’m currently learning: Fullstack Web Dev (React + Spring Boot), AI, Software Testing
 - 🚀 I'm working on: Building my GitHub profile, side projects and open-source
@@ -68,13 +51,30 @@
   </a>
 </p>
 
+<h3 align="center" ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝 </h3>
+
+<p align="center">
+  <a href="https://discord.gg/NpxPAJb6">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/discord.gif" width="40" height="40" />
+  </a>
+  <a href="mailto:anhbao88thang@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/gmail.gif" width="40" height="40" />
+  </a>
+  <a href="https://facebook.com/ltiuka">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/facebook.gif" width="40" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/nmth%E1%BA%AFng">
+    <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/linkedin.gif" width="40" height="40" />
+  </a>
+</p>
+
 🚀 Always ready to learn, connect, and create something meaningful 🌟
 
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <!-- Ngăn xếp công nghệ -->
-## 💻Tech Stack
+## 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 <!-- trình bày theo phân loại -->
 ### 🧠 Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -206,22 +206,7 @@
 <!-- line -->
 <a href="#"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🔗 Connect with me
 
-<p align="center">
-  <a href="https://discord.gg/NpxPAJb6">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-  <a href="mailto:anhbao88thang@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://facebook.com/ltiuka">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/nmth%E1%BA%AFng">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
 
 > “Code is poetry. And I’m writing my own story.” 🌌
 

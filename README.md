@@ -6,7 +6,7 @@
 
 <h1 align="center">
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-     I'm **<span style="color:cyan;">Ka</span>** (aka Nguyễn Minh Thắng)
+     I'm <strong><span style="color:#00FFFF;">Ka</span></strong> (aka Nguyễn Minh Thắng)
 </h1>
 
 <!-- đếm lượt xem -->
@@ -19,7 +19,7 @@
 <!-- ✍️ Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&width=600&height=100&lines=Hi+I'm+Ka+(Nguyen+Minh+Thang)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend" 
+    <img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&size=30&duration=3000&pause=1000&color=7AF79A&center=true&vCenter=true&width=600&height=50&lines=Hi+I'm+Ka+(Nguyen+Minh+Thang)!;An+IT+student+%F0%9F%92%BB;Loves+to+create+with+code+%F0%9F%92%AF;Exploring+the+world+of+AI+and+Frontend" 
     alt="Typing SVG" />
   </a>
 </p>

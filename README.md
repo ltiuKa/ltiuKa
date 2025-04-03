@@ -107,7 +107,7 @@
     ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ltiuKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p> -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltiuKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" /><br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ltiuKa&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" /><br> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ltiuKa&theme=blue-green&hide_border=false" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltiuKa&theme=blue-green&hide_border=false&layout=compact" />
 </p>

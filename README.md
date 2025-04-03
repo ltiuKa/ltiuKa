@@ -42,6 +42,7 @@
 - 🤝 I’m looking to collaborate on: Frontend, UI/UX and AI/ML integration
 - 📚 I love building: Smart apps with clean UI, responsive design and AI-power
 - 🧠 Fun Fact: I talk to bugs like old friends – they never really leave 👾
+- [![CV](https://img.shields.io/badge/My_CV-Click_Here-success?style=for-the-badge&logo=readthedocs&logoColor=white)](./CV/CV_NguyenMinhThang_FS.pdf)
 
 🚀 Always ready to learn, connect, and create something meaningful 🌟
 

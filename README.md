@@ -6,8 +6,27 @@
 
 <h1 align="center">
     Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-     I'm <strong><span style="color:#00FFFF;">Ka</span></strong> (aka Nguyễn Minh Thắng)
+      I'm <strong>
+    <span style="
+      background: linear-gradient(270deg, #00ffff, #00e5ff, #00ccff, #00b2ff, #0099ff, #00b2ff, #00ccff, #00e5ff, #00ffff);
+      background-size: 1800% 1800%;
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: gradientShift 5s ease infinite;
+      display: inline-block;
+    ">
+      Ka
+    </span>
+  </strong> (aka Nguyễn Minh Thắng)
 </h1>
+
+<style>
+@keyframes gradientShift {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+</style>
 
 <!-- đếm lượt xem -->
 <p align="center">
@@ -43,7 +62,11 @@
 - 📚 I love building: Smart apps with clean UI, responsive design and AI-power
 - 🧠 Fun Fact: I talk to bugs like old friends – they never really leave 👾
 
-[![CV](https://img.shields.io/badge/My_CV-Click_Here-success?style=for-the-badge&logo=readthedocs&logoColor=white)](./CV/CV_NguyenMinhThang_FS.pdf)
+<p align="center">
+  <a href="./CV/CV_NguyenMinhThang_FS.pdf">
+    <img src="https://img.shields.io/badge/My_CV-Click_Here-success?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV">
+  </a>
+</p>
 
 🚀 Always ready to learn, connect, and create something meaningful 🌟
 

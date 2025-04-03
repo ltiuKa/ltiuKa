@@ -53,6 +53,8 @@
   </a>
 </p>
 
+---
+
 <h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25" height="25"> Connect with me 🤝</h3>
 
 <p align="center">

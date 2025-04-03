@@ -44,6 +44,7 @@
 - 🤝 I’m looking to collaborate on: Frontend, UI/UX and AI/ML integration
 - 📚 I love building: Smart apps with clean UI, responsive design and AI-power
 - 🧠 Fun Fact: I talk to bugs like old friends – they never really leave 👾
+
 🚀 Always ready to learn, connect, and create something meaningful 🌟
 
 <p align="center">
